@@ -4,6 +4,9 @@
     "hasSampleData": false,
     "features": ["Communities", "Sites"],
     "settings": {
+        "experienceBundleSettings": {
+            "enableExperienceBundleMetadata": true
+        },
         "communitiesSettings": {
             "enableNetworksEnabled": true
         },
